@@ -141,7 +141,3 @@ Offline support is implemented using **Y-IndexedDB** to persist document changes
 3. **Diffing Strategy:** Update only the parts of the snapshot that have changed to optimize syncing.
 4. **Extend Y.js Data Structures:** Adapt Y.js to handle various asset types.
 5. **Frontend Optimization:** Improve the frontend for efficient loading and rendering of different asset types.
-
----
-
-This version corrects the directory navigation commands and ensures all steps are clearly outlined.
