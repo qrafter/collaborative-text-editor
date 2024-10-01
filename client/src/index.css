@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Quill Editor Styling */
+.ql-editor { height: 150px }

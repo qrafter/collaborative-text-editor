@@ -1,0 +1,6 @@
+{
+  "watch": ["src/"],
+  "ext": ".ts",
+  "ignore": ["node_modules"],
+  "exec": "npm run build && node -r @swc-node/register -r tsconfig-paths/register dist/yjs-server.js"
+}
