@@ -4,6 +4,9 @@ This project is a real-time collaborative text editor with bi-directional saving
 
 **Live Demo:** [Click here to try it out](https://lottie-text-editor-production.up.railway.app/)
 
+**Demo:**
+https://www.loom.com/share/791892fb99f54697b9e54deb793b1096
+
 **Orignal Repoistories**:
 
 [Frontend Github Repo](https://github.com/qrafter/lottie-text-editor)
