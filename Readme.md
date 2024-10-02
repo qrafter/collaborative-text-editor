@@ -12,6 +12,8 @@ https://www.loom.com/share/791892fb99f54697b9e54deb793b1096
 [Frontend Github Repo](https://github.com/qrafter/lottie-text-editor)
 [Backend Github Repo](https://github.com/qrafter/lottie-text-editor-backend)
 
+
+
 You can sign in using the following account or create your own. All documents in the app are shareable:
 
 - **Email:** admin@email.com
@@ -106,6 +108,7 @@ You can sign in using the following account or create your own. All documents in
    
 ### Architectural Overview
 
+![Diagram](docs/diagram.png)
 
 ## Implementation Details
 
